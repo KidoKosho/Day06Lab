@@ -1,0 +1,72 @@
+﻿@model Student
+
+<h2>Thêm Sinh Viên</h2>
+
+<form asp-action="Create" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Password"></label>
+        <input asp-for="Password" class="form-control" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Branch"></label>
+        <select asp-for="Branch" asp-items="ViewBag.AllBranches" class="form-control"></select>
+        <span asp-validation-for="Branch" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Gender"></label>
+        @foreach (var gender in ViewBag.AllGenders)
+        {
+            <label class="radio-inline">
+                <input type="radio" asp-for="Gender" value="@gender" /> @gender
+            </label>
+        }
+        <span asp-validation-for="Gender" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="IsRegular"></label>
+        <input asp-for="IsRegular" type="checkbox" class="form-check-input" />
+        <span asp-validation-for="IsRegular" class="text-danger"></span>
+    </div>
+
+    <label asp-for="DateOfBirth"></label>
+    <input asp-for="DateOfBirth" class="form-control" type="date" />
+    <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+
+    <div class="form-group">
+        <label asp-for="Score"></label>
+        <input asp-for="Score" class="form-control" placeholder="Điểm (0 - 10)" />
+        <span asp-validation-for="Score" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Address"></label>
+        <textarea asp-for="Address" class="form-control"></textarea>
+        <span asp-validation-for="Address" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Thêm</button>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

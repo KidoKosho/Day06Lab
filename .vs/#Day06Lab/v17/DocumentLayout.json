@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\Web\\#Day06Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|e:\\code\\web\\#day06lab\\#day06lab\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|solutionrelative:#day06lab\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|e:\\code\\web\\#day06lab\\#day06lab\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|solutionrelative:#day06lab\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|e:\\code\\web\\#day06lab\\#day06lab\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|solutionrelative:#day06lab\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|e:\\code\\web\\#day06lab\\#day06lab\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|solutionrelative:#day06lab\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|e:\\code\\web\\#day06lab\\#day06lab\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|solutionrelative:#day06lab\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|e:\\code\\web\\#day06lab\\#day06lab\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|solutionrelative:#day06lab\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|e:\\code\\web\\#day06lab\\#day06lab\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|solutionrelative:#day06lab\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|e:\\code\\web\\#day06lab\\#day06lab\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|solutionrelative:#day06lab\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|e:\\code\\web\\#day06lab\\#day06lab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|solutionrelative:#day06lab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|e:\\code\\web\\#day06lab\\#day06lab\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|solutionrelative:#day06lab\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|e:\\code\\web\\#day06lab\\#day06lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|solutionrelative:#day06lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|e:\\code\\web\\#day06lab\\#day06lab\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|solutionrelative:#day06lab\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|e:\\code\\web\\#day06lab\\#day06lab\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97B23AB0-46C6-4FF7-A4ED-08B0F424D07E}|#Day06Lab\\#Day06Lab.csproj|solutionrelative:#day06lab\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "#Day06Lab\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "#Day06Lab\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T05:11:28.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "#Day06Lab\\Views\\Student\\Index.cshtml",
+              "ToolTip": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "#Day06Lab\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T05:09:50.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "#Day06Lab\\Models\\Student.cs",
+              "ToolTip": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Models\\Student.cs",
+              "RelativeToolTip": "#Day06Lab\\Models\\Student.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvy8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T04:57:42.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "#Day06Lab\\Views\\Student\\Create.cshtml",
+              "ToolTip": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "#Day06Lab\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwD4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T04:58:40.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "#Day06Lab\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "#Day06Lab\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T05:10:24.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "#Day06Lab\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "#Day06Lab\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T04:57:14.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "#Day06Lab\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "#Day06Lab\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T05:05:13.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "#Day06Lab\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "#Day06Lab\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T05:12:25.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "#Day06Lab\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "#Day06Lab\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T04:59:44.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "#Day06Lab\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "#Day06Lab\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBwAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T05:01:12.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "#Day06Lab\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "#Day06Lab\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T05:00:55.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "#Day06Lab\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "#Day06Lab\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T05:00:57.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Program.cs",
+              "RelativeDocumentMoniker": "#Day06Lab\\Program.cs",
+              "ToolTip": "E:\\Code\\Web\\#Day06Lab\\#Day06Lab\\Program.cs",
+              "RelativeToolTip": "#Day06Lab\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T05:00:38.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
